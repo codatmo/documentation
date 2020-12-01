@@ -1,4 +1,4 @@
-# documentation
+# Documentation
 Documentation for the CoDatMo project 
 
 CoDatMo (Covid Data Models) exists as a repository of COVID-19 models written in the Stan language for Bayesian modeling. Our plan is to have an individual repo for each contributed model. 
